@@ -10,6 +10,11 @@ body {
   background-image: url('http://addyosmani.com/blog/wp-content/uploads/2013/04/unicorn.jpg');
 }
 
+button{
+  margin-left: 45%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
 .main-container {
   width: 75%;
   margin: 10px auto;
